@@ -4,11 +4,7 @@
 
 # ⚡ WhiteMean
 
-```text
-[ SYSTEM ONLINE ]
-[ JAVA LEARNING MODE ACTIVE ]
-[ MINECRAFT PROJECTS LOADED ]
-```
+
 
 💻 Java Developer in Progress  
 🎮 Minecraft Projects  
@@ -21,17 +17,19 @@
 # 🖥 About Me
 
 ```java
-public class WhiteMean {
+Eu Adoro Minecraft
+Tenho 14 anos e estudo atualmente Java
 
-    public static void main(String[] args) {
+Tenho projetos em mente.
+Vou estudar Javascript quando eu me tornar Java Junior
+Para que eu possa fazer o Torg Menu acontecer
 
-        while (true) {
-            studyJava();
-            buildProjects();
-            improveSkills();
-        }
 
-    }
+
+Discord: Whitezinho67
+ Tiktok:  Whitezinho67
+    Nick Minecraft: WhiteMeans
+        
 }
 ```
 
@@ -45,42 +43,21 @@ public class WhiteMean {
 # ⚙ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge)
+
 
 ---
 
-# 📈 GitHub Stats
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark" />
-</p>
-
----
-
-# 🎯 Current Goals
-
-```text
-[✓] Learn Java Basics
-[✓] Learn Swing
-[ ] Create Advanced GUIs
-[ ] Minecraft Projects
-[ ] Complete Large Project
-```
-
----
 
 # 🔥 Status
 
 ```text
-> USER: WHITEMEAN
+> USER: WhiteMean
 > STATUS: ONLINE
 > JAVA LEARNING MODE: ACTIVE
 > PROJECTS: LOADING...
 ```
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=github-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Whitezinho67&theme=github-dark" />
 
 </div>
