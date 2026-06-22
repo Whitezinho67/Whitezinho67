@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="mine.png" width="50%">
+<img src="mine.png" width="35%">
 
 # WhiteMean
 
