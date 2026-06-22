@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hello, I'm WhiteMean
 
-<!--
-**Whitezinho67/Whitezinho67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java Developer in Progress
 
-Here are some ideas to get you started:
+📅 Studying Java every day since June 15, 2026
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Learning, building projects, and improving every day.
+
+```java
+while (true) {
+    studyJava();
+    buildProjects();
+    improve();
+}
