@@ -53,9 +53,6 @@ Discord: Whitezinho67
 
 ```text
 > USER: WhiteMean
-> STATUS: ONLINE
-> JAVA LEARNING MODE: ACTIVE
-> PROJECTS: LOADING...
 ```
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Whitezinho67&theme=github-dark" />
