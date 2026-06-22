@@ -1,10 +1,22 @@
-# 👋 Hello, I'm WhiteMean
+<div align="center">
 
-💻 Java Developer in Progress
+<img src="banner.png" width="100%">
 
+# WhiteMean
+
+⚡ Java Learner  
+🎮 Minecraft Projects  
 📅 Studying Java every day since June 15, 2026
 
-🚀 Learning, building projects, and improving every day.
+</div>
+
+---
+
+## About Me
+
+- Learning Java
+- Creating Minecraft-related projects
+- Improving every day
 
 ```java
 while (true) {
