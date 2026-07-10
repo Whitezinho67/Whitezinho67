@@ -6,9 +6,9 @@
 
 
 
-💻 Java Developer in Progress  
+
 🎮 Minecraft Projects  
-📅 Studying Java Every Day Since June 15, 2026
+
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ```java
 Eu Adoro Minecraft
-Tenho 14 anos e estudo atualmente Java
+Tenho 14 anos 
 
 Tenho projetos em mente.
 Vou estudar Javascript quando eu me tornar Java Junior
@@ -28,12 +28,12 @@ Para que eu possa fazer o Torg Menu acontecer
 
 Discord: Whitezinho67
  Tiktok:  Whitezinho67
-    Nick Minecraft: WhiteMeans
+    Nick Minecraft: WhiteMean
         
 }
 ```
 
-- ☕ Learning Java daily
+- ☕ 
 - 🚀 Building personal projects
 - 🎮 Minecraft enthusiast
 - 📚 Always improving
